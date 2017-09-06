@@ -21,7 +21,7 @@
         text-align: center;
         color: #ffcd32;
         font-size: 0;
-		padding-top: 8px;
+		// padding-top: 8px;
         .icon{
             display: inline-block;
 			vertical-align: top;
@@ -44,11 +44,11 @@
 			right: 0;
 			.icon-mine{
 				display: block;
-				width: 52px;
-				height: 52px;
+				width: 44px;
+				height: 44px;
 			    // padding: 16px;
 			    font-size: 20px;
-				line-height: 52px;
+				line-height: 44px;
 			    color: #ffcd32;
 			}
 		}
